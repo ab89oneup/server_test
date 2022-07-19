@@ -1,0 +1,224 @@
+{
+    "offerte": [
+        {
+            "responses": {
+                "200": {
+                    "description": "OK",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "_embedded": {
+                                "type": "array",
+                                "items": [
+                                    {
+                                        "canaleVendita": "PLDP",
+                                        "canone": {
+                                            "autoLordo": 153.16,
+                                            "autoNetto": 125.54,
+                                            "totaleLordo": 213.16
+                                        },
+                                        "chilometri": 20000,
+                                        "codice": "84148FAS",
+                                        "codiceConcessionario": "1054XL4",
+                                        "codiceProntuario": "X1",
+                                        "descrizione": "Be Style Sofia (Nero Etoilé + Bianco Puro), Cerchi in lega da 18 Diamantati Grey PASADENA, Pack STANDARD SAFETY, Pack STREET, Pack MULTIMEDIA PLUS, Barre tetto, Driver Display 10, Specchietti retrovisori ripiegabili manualmente",
+                                        "disponibilita": 50,
+                                        "durata": 12,
+                                        "ecobonus": 4000,
+                                        "immagine": "https://i.ibb.co/tC9TTSJ/immagine-auto.png",
+                                        "ipt": 306,
+                                        "ivaVeicolo": 4152.48,
+                                        "mss": 164.32,
+                                        "msspfu": 464.62,
+                                        "nettoConOpzioni": 21170.00,
+                                        "nettoVeicolo": 18874.92,
+                                        "opzioni": [
+                                            {
+                                                "codice": "YNP 2TON",
+                                                "descrizione": "Be Style Sofia (Nero Etoilé + Bianco Puro)",
+                                                "lordo": 810,
+                                                "margine": 146.1,
+                                                "netto": 663.93
+                                            },
+                                            {
+                                                "codice": "RSGALT",
+                                                "descrizione": "Ruotino di scorta",
+                                                "lordo": 260,
+                                                "margine": 46.9,
+                                                "netto": 213.11
+                                            },
+                                            {
+                                                "codice": "RALU18 RDIF21",
+                                                "descrizione": "Cerchi in lega da 18' Diamantati Grey PASADENA",
+                                                "lordo": 270,
+                                                "margine": 48.7,
+                                                "netto": 221.31
+                                            }
+                                        ],
+                                        "sconto": {
+                                            "importo": 6986.10,
+                                            "percentuale": 33
+                                        },
+                                        "servizi": {
+                                            "canone": 60,
+                                            "pcl": 720,
+                                            "pdu": 426,
+                                            "prontuario": "XXXX"
+                                        },
+                                        "tassoOfferta": 8.25,
+                                        "validita": {
+                                            "fine": "2022-07-08",
+                                            "inizio": "2022-07-08"
+                                        },
+                                        "valoreResiduo": {
+                                            "correzione": 4,
+                                            "importo": 12767.63,
+                                            "percentuale": 46.31
+                                        },
+                                        "veicolo": {
+                                            "alimentazione": {
+                                                "key": "B",
+                                                "value": "Benzina"
+                                            },
+                                            "brand": "RENAULT",
+                                            "modello": {
+                                                "key": "05258",
+                                                "value": "CAPTUR"
+                                            },
+                                            "potenza": 67,
+                                            "utilizzo": "VP",
+                                            "versione": {
+                                                "key": "S3MM6H6 6US",
+                                                "value": "INTENS TCe 90 MY21"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "canaleVendita": "PLDP",
+                                        "canone": {
+                                            "autoLordo": 180.16,
+                                            "autoNetto": 102.20,
+                                            "totaleLordo": 240.16
+                                        },
+                                        "chilometri": 30000,
+                                        "codice": "6555ALNB",
+                                        "codiceConcessionario": "156X8SF",
+                                        "codiceProntuario": "X1",
+                                        "descrizione": "Be Style Sofia (Nero Etoilé + Bianco Puro), Cerchi in lega da 18 Diamantati Grey PASADENA, Pack STANDARD SAFETY, Pack STREET, Pack MULTIMEDIA PLUS, Barre tetto, Driver Display 10, Specchietti retrovisori ripiegabili manualmente",
+                                        "disponibilita": 20,
+                                        "durata": 6,
+                                        "ecobonus": 4000,
+                                        "immagine": "https://i.ibb.co/tC9TTSJ/immagine-auto.png",
+                                        "ipt": 306,
+                                        "ivaVeicolo": 3552.48,
+                                        "mss": 180.32,
+                                        "msspfu": 440.62,
+                                        "nettoConOpzioni": 23170.00,
+                                        "nettoVeicolo": 19874.92,
+                                        "opzioni": [
+                                            {
+                                                "codice": "YNP 2TON 2",
+                                                "descrizione": "Be Style Sofia (Nero Etoilé + Bianco Puro) 2",
+                                                "lordo": 810,
+                                                "margine": 146.1,
+                                                "netto": 663.93
+                                            },
+                                            {
+                                                "codice": "RSGALT 2",
+                                                "descrizione": "Ruotino di scorta 2",
+                                                "lordo": 260,
+                                                "margine": 46.9,
+                                                "netto": 213.11
+                                            },
+                                            {
+                                                "codice": "RALU18 RDIF21 2",
+                                                "descrizione": "Cerchi in lega da 18' Diamantati Grey PASADENA 2",
+                                                "lordo": 270,
+                                                "margine": 48.7,
+                                                "netto": 221.31
+                                            }
+                                        ],
+                                        "sconto": {
+                                            "importo": 5086.10,
+                                            "percentuale": 33
+                                        },
+                                        "servizi": {
+                                            "canone": 40,
+                                            "pcl": 520,
+                                            "pdu": 326,
+                                            "prontuario": "XXXX"
+                                        },
+                                        "tassoOfferta": 9.25,
+                                        "validita": {
+                                            "fine": "2022-07-08",
+                                            "inizio": "2022-07-08"
+                                        },
+                                        "valoreResiduo": {
+                                            "correzione": 6,
+                                            "importo": 14767.63,
+                                            "percentuale": 60.31
+                                        },
+                                        "veicolo": {
+                                            "alimentazione": {
+                                                "key": "B",
+                                                "value": "Benzina"
+                                            },
+                                            "brand": "RENAULT",
+                                            "modello": {
+                                                "key": "08858",
+                                                "value": "CLIO"
+                                            },
+                                            "potenza": 55,
+                                            "utilizzo": "VP",
+                                            "versione": {
+                                                "key": "G4BB6H6 6US",
+                                                "value": "INTENS TCe 90 MY21 2"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "_links": {
+                                "$ref": "#/definitions/Links"
+                            }
+                        },
+                        "title": "CollectionModel«Offerta»"
+                    }
+                },
+                "401": {
+                    "description": "Unauthorized"
+                },
+                "403": {
+                    "description": "Forbidden"
+                },
+                "500": {
+                    "description": "Generic Server Error",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "requestId": {
+                                "type": "string"
+                            }
+                        },
+                        "title": "GenericError"
+                    }
+                },
+                "503": {
+                    "description": "Internal System Error",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "message": {
+                                "type": "string"
+                            },
+                            "requestId": {
+                                "type": "string"
+                            }
+                        },
+                        "title": "ServiceError"
+                    }
+                }
+            }
+        }
+    ]
+}
